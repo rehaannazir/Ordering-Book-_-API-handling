@@ -1,0 +1,9 @@
+API_KEY=a*****
+
+NAME=Rehan
+
+EMAIL=rehan@gmail.com
+
+BASE_URL = https://simple-books-api.click
+
+ACCESS_TOKEN=366f744116*****************************63f02d464f2087b9db
