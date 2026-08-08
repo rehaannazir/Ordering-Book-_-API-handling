@@ -2,9 +2,9 @@ import requests as req
 from dotenv import load_dotenv
 import os
 
-BASE_URL = os.getenv("BASE_URL")
-
 load_dotenv()
+
+BASE_URL = os.getenv("BASE_URL")
 
 # We are using a Book API
 
