@@ -1,9 +1,11 @@
-API_KEY=a*****
+# Copy this file to .env and fill in your own values.
+# Do not commit .env — it is ignored by .gitignore.
 
-NAME=Rehan
+BASE_URL=https://simple-books-api.click
 
-EMAIL=rehan@gmail.com
+# Obtained from POST /api-clients — see the README for how to generate one.
+ACCESS_TOKEN=your-access-token-here
 
-BASE_URL = https://simple-books-api.click
-
-ACCESS_TOKEN=366f744116*****************************63f02d464f2087b9db
+# Details submitted when registering the API client.
+NAME=your-name
+EMAIL=your-email@example.com
